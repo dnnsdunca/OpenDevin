@@ -1,0 +1,75 @@
+Read.me
+# CodeGenesis
+
+Welcome to CodeGenesis, an innovative project housed under `opendevin` that aims to revolutionize AI-assisted software development through the integration of cutting-edge AI models and community-driven development practices. CodeGenesis leverages the Open Devin Project as a foundational framework, enhanced with AI capabilities powered by models developed with Hugging Face.
+
+## Project Overview
+
+CodeGenesis is designed to streamline the software development process, making it more efficient, intuitive, and accessible. By integrating advanced AI models into the Open Devin framework, we aim to provide developers with intelligent tools that automate mundane tasks, offer insightful recommendations, and foster a collaborative environment for innovation.
+
+### Key Features
+
+- **AI-Assisted Coding:** Leverage AI to offer code suggestions, bug fixes, and optimization recommendations.
+- **Community-Driven Development:** A platform that thrives on contributions, feedback, and collaborative innovation from the developer community.
+- **Seamless Integration:** Effortless integration with existing projects and workflows, enhancing productivity without disrupting your development process.
+- **Ethical AI Use:** A commitment to ethical AI practices, ensuring that our models are fair, transparent, and respectful of user privacy.
+
+## Getting Started
+
+### Prerequisites
+
+- Basic knowledge of software development and AI concepts.
+- An environment set up for [Python](https://www.python.org/downloads/) (version 3.6 or later).
+- Access to Hugging Face models and the Open Devin Project.
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/opendevin/CodeGenesis.git
+```
+
+2. Install required dependencies:
+
+```bash
+cd CodeGenesis
+pip install -r requirements.txt
+```
+
+3. (Optional) Steps to integrate with existing projects or setups.
+
+### Quick Start Guide
+
+- How to initialize CodeGenesis in your project.
+- Example commands or scripts to demonstrate basic functionalities.
+
+## How to Contribute
+
+CodeGenesis is a community-driven project, and we welcome contributions of all kinds: from code improvements and bug fixes to documentation and feature ideas. Please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to make a contribution.
+
+## Documentation
+
+For detailed documentation, including advanced configurations, API references, and development guides, visit [CodeGenesis Documentation](https://opendevin.github.io/CodeGenesis/).
+
+## Community and Support
+
+Join our vibrant community of developers and AI enthusiasts:
+
+- **GitHub Issues:** For reporting bugs and feature requests.
+- **Discord/Slack:** Link to your project's communication channels for real-time discussions.
+- **Twitter:** Follow us on Twitter [@CodeGenesis](https://twitter.com/CodeGenesis) for updates and news.
+
+## License
+
+CodeGenesis is open-source and licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+
+- Hugging Face for providing an extensive library of AI models.
+- The Open Devin Project community for the foundational framework and ongoing support.
+- All the contributors who have helped shape CodeGenesis into what it is today.
+
+---
+
+This template is a starting point and should be customized to fit the specifics of CodeGenesis and its community guidelines. Engaging, complete, and up-to-date documentation is key to the success of open-source projects.
